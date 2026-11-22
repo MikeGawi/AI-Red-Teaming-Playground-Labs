@@ -4,7 +4,7 @@
   "private": true,
   "homepage": ".",
   "dependencies": {
-    "@fluentui/react-components": "^9.54.13",
+    "@fluentui/react-components": "^9.75.0",
     "@fluentui/react-icons": "^2.0.256",
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
